@@ -24,6 +24,12 @@
 	# Commit all changes
 	ca = !git add -A && git commit -av
 
+	# Checkout
+	co = checkout
+
+	# Commit
+	ci = commit
+
 	# Show the current branch
 	br = branch
 
