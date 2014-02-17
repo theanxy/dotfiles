@@ -244,3 +244,10 @@ function o() {
 function tre() {
 	tree -aC -I '.git|node_modules|bower_components' --dirsfirst "$@" | less -FRNX;
 }
+
+# Create a pull request from command line
+function git-pr {
+    branch=$(git rev-parse --abbrev-ref HEAD)
+    remote=$(git remote -v | grep upstream | grep \(push\) | awk -F ":" '{print $2}' | awk -F "/" '{print $1}')
+    git commit -am ${1} && git push origin $branch && git pull-request ${1} -b $remote:develop -h theanxy:$branch
+}
