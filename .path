@@ -1,2 +1,2 @@
 export NODE_PATH=/usr/local/lib/node:/usr/local/share/npm/lib/node_modules:$HOME/.node/lib/node_modules
-export PATH="$PATH:$HOME/.node/bin"
+export PATH="$PATH:$HOME/.node/bin:/Applications/MAMP/bin/php/php5.6.2/lib/php"
