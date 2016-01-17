@@ -4,6 +4,7 @@
 * Pocket
 * 1Password
 * Bartender
+* Spectacle
 * Flux
 * Bartender
 * feedly
