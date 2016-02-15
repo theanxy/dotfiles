@@ -103,6 +103,7 @@ brew install zopfli
 # Install custom brew cli tools
 brew install httpie
 brew install jq
+brew install git-flow
 
 # Remove outdated versions from the cellar.
 brew cleanup
