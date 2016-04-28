@@ -59,3 +59,6 @@ explain () {
     echo "explain 'cmd -o | ...'   one quoted command to explain it."
   fi
 }
+
+# Add 'z' utility (https://github.com/rupa/z)
+. `brew --prefix`/etc/profile.d/z.sh

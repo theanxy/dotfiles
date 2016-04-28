@@ -104,6 +104,7 @@ brew install zopfli
 brew install httpie
 brew install jq
 brew install git-flow
+brew install z
 
 # Remove outdated versions from the cellar.
 brew cleanup
