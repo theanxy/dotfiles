@@ -30,4 +30,5 @@
 * sourceTree
 * Xcode
 * ~VLC~ → IINA
+* VyprVPN
 * TripMode
