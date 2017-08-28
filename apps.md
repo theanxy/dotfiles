@@ -5,7 +5,7 @@
 * Pocket
 * 1Password
 * Bartender
-* -Spectacle- Magnet
+* ~Spectacle~ → Magnet
 * Flux
 * Bartender
 * feedly
@@ -29,5 +29,5 @@
 * VirtualBox, Docker
 * sourceTree
 * Xcode
-* -VLC- IINA
+* ~VLC~ → IINA
 * TripMode
