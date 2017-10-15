@@ -8,6 +8,7 @@
 * ~Spectacle~ → Magnet
 * Flux
 * Bartender
+* Alfred
 * feedly
 * GitHub
 * sourceTree
