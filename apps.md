@@ -32,3 +32,4 @@
 * ~VLC~ → IINA
 * VyprVPN
 * TripMode
+* Rocket.app (emojis)
