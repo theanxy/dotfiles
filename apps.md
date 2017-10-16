@@ -17,7 +17,7 @@
 * iTerm
 * Exifrenamer
 * Shiori
-* Cloudup
+* CloudApp
 * Skitch
 * Sketch
 * Getrate.app
