@@ -1,14 +1,14 @@
 # My frequently used (standalone) apps
 
 * Chrome Canary
+* Brave
 * Choosy
 * Pocket
 * 1Password
 * Bartender
 * ~Spectacle~ → Magnet
-* Flux
-* Bartender
-* Alfred
+* Setapp (Bartender, CleanShot X, Dato)
+* ~Alfred~ → Raycast
 * feedly
 * GitHub
 * sourceTree
@@ -16,21 +16,21 @@
 * OmniDiskSweeper
 * iTerm
 * Exifrenamer
-* Shiori
-* CloudApp
-* Skitch
-* Sketch
-* Getrate.app
-* Hour.app
-* Lightroom, Nik Collection
-* Duet
+* CoinTick
 * Slack
 * VSCode
-* WebStorm
-* VirtualBox, Docker
-* sourceTree
 * Xcode
-* ~VLC~ → IINA
-* VyprVPN
+* ~VyprVPN~ → NordVPN
 * TripMode
 * Rocket.app (emojis)
+* Insomnia
+* ChatGPT
+* Discord
+* Signal
+* Telegram
+* Obsidian
+* Linear
+* Figma
+* Spotify
+* Things.app
+* Backblaze
