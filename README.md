@@ -1,6 +1,7 @@
-# Mathias’s dotfiles
+# My dotfiles (based on [Mathias's repo](https://github.com/mathiasbynens/dotfiles))
 
-![Screenshot of my shell prompt](https://i.imgur.com/EkEtphC.png)
+## Update (Jan 5, 2025)
+I no longer maintain this repo. Instead, I switched to follow the [New Mac Setup guide from swyx](https://www.swyx.io/new-mac-setup).
 
 ## Installation
 
